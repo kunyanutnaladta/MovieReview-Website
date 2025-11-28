@@ -71,10 +71,16 @@ npm run dev
 ---
 
 ## 👥 Contributors
-- Pasavee Pongkaew (Owner)
-- และทีมผู้พัฒนาคนอื่นๆ
+- Kunyanat Naladta และทีมผู้พัฒนาคนอื่นๆ
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
+## Screenshot
+
+<img width="1907" height="1016" alt="Screenshot 2025-11-28 132401" src="https://github.com/user-attachments/assets/3bdd0287-7f34-4fba-a12c-3c7a5fda13c9" />
+
+<img width="1919" height="944" alt="Screenshot 2025-11-28 134930" src="https://github.com/user-attachments/assets/89f22412-7095-4bf5-952f-6d2309740c81" />
+
+<img width="1895" height="1031" alt="Screenshot 2025-11-28 134950" src="https://github.com/user-attachments/assets/0d21dba4-38ac-475f-a55e-9191d446d4f5" />
+
+<img width="1900" height="1026" alt="Screenshot 2025-11-28 135029" src="https://github.com/user-attachments/assets/96110b10-a4ba-42ff-afd0-64cb64d43c2e" />
